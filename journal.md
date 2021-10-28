@@ -89,4 +89,4 @@ At this point I think it's working well enough to try and cram it into the case!
 There's a number of other things I'd like to do, in particular I'd like to add an LED to indicate that it's "thinking" and shine this through the existing translucent volume knob (I'd also like to connect the volume knob an it's switch).  But for today let's not break anything else.
 
 
-
+Looks like someone has already figured out the LED part I want: https://community.mycroft.ai/t/testing-and-feeback-wake-word-led-gpio/9839
