@@ -90,3 +90,9 @@ There's a number of other things I'd like to do, in particular I'd like to add a
 
 
 Looks like someone has already figured out the LED part I want: https://community.mycroft.ai/t/testing-and-feeback-wake-word-led-gpio/9839
+
+
+## 11012021
+
+Spent some time cleaning-up the insides and documenting the wiring.
+
