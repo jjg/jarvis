@@ -96,3 +96,13 @@ Looks like someone has already figured out the LED part I want: https://communit
 
 Spent some time cleaning-up the insides and documenting the wiring.
 
+
+## 11022021
+
+Updated the [README](./README.md), added some more images (might add some more of the inside as well).
+
+Thinking about what to work on next.  Hardware-wise things are pretty stable at this point, the only thing I'd like to add is to connect the switch in the volume knob to the software in a way that disables the device when the switch is turned off (I didn't connect the pot for the volume since I don't think theres an analog input on the Pi).
+
+Aside from the hardware the next steps are to get the thing off-the-grid.  There are two parts of this: setting up a STT server and a local copy of the API used to configure the thing.  I'm leaning toward the latter just because I've found a [project](https://github.com/OpenVoiceOS/OVOS-local-backend) that looks like a good starting point for this and it might be lightweight enough to run on the device itself (as opposed to the STT, which will require a beefier machine).
+
+

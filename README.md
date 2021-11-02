@@ -40,3 +40,4 @@ Detailed (if poorly-written) progress information can be found in [the journal](
 * [https://www.raspberrypi.com/documentation/computers/os.html](https://www.raspberrypi.com/documentation/computers/os.html)
 * [https://github.com/smartgic/mycroft-wakeword-led-gpio-skill](https://github.com/smartgic/mycroft-wakeword-led-gpio-skill)
 * [https://github.com/MycroftAI/picroft_example_skill_gpio](https://github.com/MycroftAI/picroft_example_skill_gpio)
+* [https://github.com/OpenVoiceOS/OVOS-local-backend](https://github.com/OpenVoiceOS/OVOS-local-backend)
