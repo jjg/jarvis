@@ -21,7 +21,10 @@ There are a number of projects that have laid the groundwork for this, and Mycro
 * ~~Produce some basic documentation of what's been done so far~~
 * Start reducing dependence on "the cloud"
     + STT
+        + Setup [Mozilla DeepSpeech](https://github.com/mozilla/DeepSpeech#project-deepspeech)
+        + Test [pointing Jarvis at the local DeepSpeech server](https://mycroft-ai.gitbook.io/docs/using-mycroft-ai/customizations/stt-engine#mycroft-configuration)
     + API
+        + Test [OVOS Local Backend](https://github.com/OpenVoiceOS/OVOS-local-backend)
 
 Detailed (if poorly-written) progress information can be found in [the journal](./journal.md).
 
@@ -41,3 +44,4 @@ Detailed (if poorly-written) progress information can be found in [the journal](
 * [https://github.com/smartgic/mycroft-wakeword-led-gpio-skill](https://github.com/smartgic/mycroft-wakeword-led-gpio-skill)
 * [https://github.com/MycroftAI/picroft_example_skill_gpio](https://github.com/MycroftAI/picroft_example_skill_gpio)
 * [https://github.com/OpenVoiceOS/OVOS-local-backend](https://github.com/OpenVoiceOS/OVOS-local-backend)
+* [https://mycroft-ai.gitbook.io/docs/using-mycroft-ai/customizations/stt-engine](https://mycroft-ai.gitbook.io/docs/using-mycroft-ai/customizations/stt-engine)
